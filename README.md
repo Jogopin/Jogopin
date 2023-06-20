@@ -4,7 +4,7 @@
 
  
 
- I'm a Junior Full-Stack Developer and I'm excited about continuing to develop my skills and work on projects that challenge me
+I'm a Junior Full-Stack Developer, enthusiastic about expanding my skills and tackling challenging projects. Take a look at my journey so far and the progress in my projects. If you're up for a chat or a project, I'm just a message away. Thanks for dropping in
 
 ### PROJECTS
 #### Moonlight
