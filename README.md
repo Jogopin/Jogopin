@@ -7,6 +7,15 @@
 👋 I'm a Junior Full-Stack Developer, enthusiastic about expanding my skills and tackling challenging projects. Take a look at my journey so far and the progress in my projects. If you're up for a chat or a project, I'm just a message away. Thanks for dropping in.
 
 ### PROJECTS
+#### Groovz
+Groovz is an e-commerce web app that offers a virtual store for headphones and speakers. Users can explore products, add them to their cart, and checkout using the Stripe test mode. The platform comes with features such as user authentication & authorization, admin accounts, responsive design, and efficient error handling. I worked on this project using React with Tailwind CSS for the frontend, and Express on Node.js with MongoDB for the backend.
+
+<a href="https://github.com/Jogopin/Groovz-Client" >
+    <img width="33%" src="https://res.cloudinary.com/dnvhmjaoc/image/upload/v1692273479/Screenshot_2023-08-16_223352_zjfge3.png" />
+    <img width="33%" src="https://res.cloudinary.com/dnvhmjaoc/image/upload/v1692358960/307shots_so_yutmwc.png" />
+    <img width="33%" src="https://res.cloudinary.com/dnvhmjaoc/image/upload/v1692273478/Screenshot_2023-08-17_133851_mohof0.png" />
+</a>
+
 #### Moonlight
 Moonlight is a MERN web app where you can discover, promote, and attend various events like concerts, festivals, and workshops. With CRUD functionality, users can create, read, update, and delete their own events, and join others while participating in live chats. Users also have a profile page to manage their created events, update their avatar, and see their chat history.
 
@@ -33,7 +42,7 @@ A website where users have CRUD functionality for their posts and the ability to
 
    <a href="https://github.com/sarah-jonnathan/lifehack-project">
     <img width="53%" src="https://res.cloudinary.com/dsw3axyzs/image/upload/v1677339323/lifehacks_ld3pyw.png" />
-    <img width="25.4%" src="https://res.cloudinary.com/dsw3axyzs/image/upload/v1677339300/lifehacks2_qqwurf.png" />
+    <img width="25.3%" src="https://res.cloudinary.com/dsw3axyzs/image/upload/v1677339300/lifehacks2_qqwurf.png" />
      </a>
 
 
@@ -41,7 +50,7 @@ A website where users have CRUD functionality for their posts and the ability to
 ### <h3 style="color:#e45353"> I build websites with </h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,mongodb,git&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,express,nodejs,mongodb,git&theme=dark&perline=5)](https://skillicons.dev)
 
 
 
